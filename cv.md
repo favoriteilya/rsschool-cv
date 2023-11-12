@@ -7,7 +7,7 @@
 ###<p style="text-align:; font-size: 33px; color: black ; "></p>
  
 * __Phone:telephone_receiver:: 8(909) 601-60-58__
-* __E-mail:email::  alan.goldie@mail.ru__
+* __E-mail:email::  alexbenz448@gmail.com__
 * __GitHub:package:: [favoreteilya](https://github.com/favoriteilya "favoriteilya")__
 * __Telegram:speech_balloon:: [favoretehi](https://t.me/Favoritehi "favoritehi")__
 
